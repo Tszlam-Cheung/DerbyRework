@@ -1,6 +1,9 @@
 # DerbyRework
 https://github.com/NerdyDerby/mainTrack_2015_1
-original link here
+original files here
+
+https://github.com/pkropf/nerdyderby
+and here
 
 
 I modify it under Autocad2018
@@ -16,5 +19,6 @@ CNC out using 6mm milling bit
 5 pieces for the whole rails
 1 pieces for the testing rails.
 GL HF
-Modify by Tszlam Cheung
-original designed by Tak Cheung for Nerdy Derby
+
+Modify by Tszlam Cheung in May 26th,2018
+Original designed by Tak Cheung for Nerdy Derby
